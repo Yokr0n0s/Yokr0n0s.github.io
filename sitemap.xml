@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/06/17/Kernel/</loc>
+    <loc>http://yokr0n0s.github.io/2021/06/17/Kernel/</loc>
     
-    <lastmod>2021-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/home/index.html</loc>
-    
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>http://yokr0n0s.github.io/tags/index.html</loc>
     
-    <lastmod>2021-06-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://yokr0n0s.github.io/categories/index.html</loc>
     
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://yokr0n0s.github.io/home/index.html</loc>
     
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2021-06-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yokr0n0s.github.io/about/index.html</loc>
+    
+    <lastmod>2021-06-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yokr0n0s.github.io/link/index.html</loc>
+    
+    <lastmod>2021-06-19</lastmod>
     
   </url>
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>http://yokr0n0s.github.io/</loc>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
